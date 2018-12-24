@@ -48,10 +48,11 @@
 * Πλαστικό Κουτί Οργάνωσης
 #### Κόστος υλικών: 186€
 ---
-### Άδεια χρήσης
+##### Άδεια χρήσης
+
 Παρακάλω δείτε το αρχείο [LICENSE](https://github.com/amachg/Robotri/blob/master/LICENSE)
 ---
-### Επαφή
+#### Επαφή
 7ο Γυμνάσιο Χαϊδαρίου "Νέα Φώκαια": https://7gym-chaid.att.sch.gr
 mailto://h@sch.gr
 Robotics Club του σχολείου:
