@@ -46,17 +46,18 @@
 * Toolcraft 816745 Κοφτάκι 125mm πλάγιο
 * Τρυπανάκια 0.4 mm - 1 mm 
 * Πλαστικό Κουτί Οργάνωσης
-#### Κόστος υλικών: 186€
+Κόστος υλικών: 186€
 ---
 ##### Άδεια χρήσης
 
 Παρακάλω δείτε το αρχείο [LICENSE](https://github.com/amachg/Robotri/blob/master/LICENSE)
 ---
-#### Επαφή
+##### Επαφή
 7ο Γυμνάσιο Χαϊδαρίου "Νέα Φώκαια": https://7gym-chaid.att.sch.gr
 mailto://h@sch.gr
 Robotics Club του σχολείου:
 * Πετρουλάκης :smirk:
 * Παπαδόπουλος :smiley:
-* Ψαρράς :disappointed_relieved:
+* Φελέσκουρας :disappointed_relieved:
+* Ψαρράς :flushed:
 * Μαχαιρίδης :confused:
