@@ -64,4 +64,4 @@ Robotics Club του σχολείου:
 * Παπαδόπουλος :smiley:
 * Φελέσκουρας :disappointed_relieved:
 * Ψαρράς :flushed:
-* Μαχαιρίδης :confused:
+* Μαχαιρίδης :neutral_face:
