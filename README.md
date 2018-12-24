@@ -1,6 +1,7 @@
 # Robotri
-![Arduino1](http://www.i2clipart.com/cliparts/1/4/8/7/clipart-open-source-harware-logo-1487.png "Logo1")
-![Arduino2](https://flathub.org/repo/appstream/x86_64/icons/128x128/cc.arduino.arduinoide.png "Logo2") 
+![Arduino](https://flathub.org/repo/appstream/x86_64/icons/128x128/cc.arduino.arduinoide.png "Logo1") 
+![Arduino](http://www.i2clipart.com/cliparts/1/4/8/7/clipart-open-source-harware-logo-1487.png "Logo2")
+![Arduino](https://embeddedcomputing.weebly.com/uploads/1/1/6/2/11624344/128-logo-visual-studio-code-c-c-orig_orig.png "Logo3")
 ### Ρομποτική Τρίλιζα  
 Στόχος της ομάδας ρομποτικής του σχολείου μας είναι:
 1. Η συναρμολόγηση ενός κιτ **ρομποτικού βραχίονα**, ανοικτού υλικού συμβατού με *arduino*, με πέντε βαθμούς ελευθερίας. Ο βραχίονας θα πρέπει να μπορεί να ανασηκώνει και να μετακινεί ελαφρά αντικείμενα μερικών εκατοντάδων γραμμαρίων σε ακτίνα μερικών δεκάδων εκατοστών. Ο βραχίονας θα είναι αρθρωτός και θα φέρει στο άκρο του μηχανισμό αρπάγης (δαγκάνα) για να μετακινεί πούλια σε τυπωμένη πίστα τρίλιζας.
