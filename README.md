@@ -22,27 +22,26 @@ PC, παλιά κάμερα, καλώδιο USB, δράπανο, πιστόλι 
 επαναφορτιζόμενες μπαταρίες λιθίου, φορτιστής
 
 ### Υλικά προς αγορά:
-1. 
-*Arduino MEGA ADK Rev3
-*Κουτί για Arduino MEGA
-*ESP32 ESP-32S Development Board
-*Display 1.5" RGB 128x128 OLED Module ή 2.8" TFT LCD Touchscreen w/MicroSD
-*Dot Matrix Display MAX7219 Module
-*x9 Πιεζοηλεκτρικός Μετατροπέας Ήχου
-*x2 Αισθητήρας Αφής (Capacitive)
-*Καλώδια Dupont Jumper Wires 20cm
-*Μπαταριοθήκη 4x18650, με Καλώδια
-*Θερμοσυστελλόμενο 9.5mm Μαύρο, 1 μέτρο
-*Ισοπροπυλική Αλκοόλη 
-*Μοριοσανίδα 60x60x1 εκ.
-*Μακετόχαρτο 60x60 εκ.
-*Πολύμετρο Ψηφιακό
-*Βάση Στήριξης Πλακετών
-*Τρόμπα Αποκόλλησης
-*Flux Liquid 25ml Rosin-Free
-*Heat-resistant Silicone Soldering Pad
-*Σετ Κατσαβίδια Ακριβείας
-*Toolcraft 816745 Κοφτάκι 125mm πλάγιο
-*Τρυπανάκια 0.4 mm - 1 mm 
-*Πλαστικό Κουτί Οργάνωσης
+* Arduino MEGA ADK Rev3
+* Κουτί για Arduino MEGA
+* ESP32 ESP-32S Development Board
+* Display 1.5" RGB 128x128 OLED Module ή 2.8" TFT LCD Touchscreen w/MicroSD
+* Dot Matrix Display MAX7219 Module
+* x9 Πιεζοηλεκτρικός Μετατροπέας Ήχου
+* x2 Αισθητήρας Αφής (Capacitive)
+* Καλώδια Dupont Jumper Wires 20cm
+* Μπαταριοθήκη 4x18650, με Καλώδια
+* Θερμοσυστελλόμενο 9.5mm Μαύρο, 1 μέτρο
+* Ισοπροπυλική Αλκοόλη 
+* Μοριοσανίδα 60x60x1 εκ.
+* Μακετόχαρτο 60x60 εκ.
+* Πολύμετρο Ψηφιακό
+* Βάση Στήριξης Πλακετών
+* Τρόμπα Αποκόλλησης
+* Flux Liquid 25ml Rosin-Free
+* Heat-resistant Silicone Soldering Pad
+* Σετ Κατσαβίδια Ακριβείας
+* Toolcraft 816745 Κοφτάκι 125mm πλάγιο
+* Τρυπανάκια 0.4 mm - 1 mm 
+* Πλαστικό Κουτί Οργάνωσης
 #### Κόστος υλικών: 186€
