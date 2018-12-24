@@ -53,9 +53,12 @@
 
 ### Επαφή
 7ο Γυμνάσιο Χαϊδαρίου "Νέα Φώκαια": http://7gym-chaid.att.sch.gr
+
 Email: amach@sch.gr
-Robotics Club του σχολείου: 
+
+Robotics Club του σχολείου:
+
 Μέλη:
-* Πετρουλάκης
-* Παπαδόπουλος
+* Πετρουλάκης :smirk:
+* Παπαδόπουλος :smiley:
 
