@@ -1,8 +1,7 @@
 # Robotri
-![Arduino](https://arduino.tumblr.com/ "Logo1") 
+![Arduino](https://static.tumblr.com/cce8a85947456c363f685501a3648cfc/ch5dfka/xwfo5krpe/tumblr_static_2xuj4l55rsaoksog0kckcg04o_2048_v2.png "Logo1") 
 ![Arduino](http://www.i2clipart.com/cliparts/1/4/8/7/clipart-open-source-harware-logo-1487.png "Logo2")
 ![Arduino](https://embeddedcomputing.weebly.com/uploads/1/1/6/2/11624344/128-logo-visual-studio-code-c-c-orig_orig.png "Logo3")
-
 ![Arduino](https://dl.myket.ir/newresizing/resize/medium/png/icon/com.starktech.cpf_arm_fcb4e631-1b58-497c-97ab-d8c80cfe7f9f_.png "Logo3")
 
 ### Ρομποτική Τρίλιζα  
