@@ -52,13 +52,9 @@
 Παρακάλω δείτε το αρχείο [LICENSE](https://github.com/amachg/Robotri/blob/master/LICENSE)
 
 ### Επαφή
-7ο Γυμνάσιο Χαϊδαρίου "Νέα Φώκαια": http://7gym-chaid.att.sch.gr
-
-Email: amach@sch.gr
-
+7ο Γυμνάσιο Χαϊδαρίου "Νέα Φώκαια": 7gym-chaid.att.sch.gr
+Email: h@sch.gr
 Robotics Club του σχολείου:
-
-Μέλη:
 * Πετρουλάκης :smirk:
 * Παπαδόπουλος :smiley:
 * Μαχαιρίδης :confused:
