@@ -39,7 +39,7 @@
 * [Ισοπροπυλική Αλκοόλη](https://www.devobox.com/index.php?id_product=353&controller=product&id_lang=2&search_query=%CE%99%CF%83%CE%BF%CF%80%CF%81%CE%BF%CF%80%CF%85%CE%BB%CE%B9%CE%BA%CE%AE+%CE%91%CE%BB%CE%BA%CE%BF%CF%8C%CE%BB%CE%B7&results=3), 7,90 €
 * Μοριοσανίδα 60x60x1 εκ.
 * [Μακετόχαρτο 70x100cm x10mm](http://www.prokopishop.gr/pegasus/products01/show00.php?code=31382&pcode=SHOW_PROD31382), 7,90€
-* Πολύμετρο Ψηφιακό
+* [Πολύμετρο Ψηφιακό](https://grobotronics.com/digital-multimeter-uni-t-ut131b.html), €10.80
 * Βάση Στήριξης Πλακετών
 * Τρόμπα Αποκόλλησης
 * Flux Liquid 25ml Rosin-Free
