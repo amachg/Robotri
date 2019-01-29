@@ -26,14 +26,14 @@
 
 #### Υλικά προς αγορά:
 * [Arduino MEGA ADK Rev3](https://grobotronics.com/arduino-mega-2560-adk-rev3.html), €53.90
-* Κουτί για Arduino MEGA
+* [Κουτί για Arduino MEGA](https://www.devobox.com/index.php?id_product=39&controller=product&id_lang=2), 7,90€
 * ESP32 ESP-32S Development Board
 * [Display 1.5" RGB 128x128 OLED Module](https://grobotronics.com/display-1.5-rgb-128x128-oled-module.html), €18.90
 ή 2.8" TFT LCD Touchscreen w/MicroSD
-* [Dot Matrix Display MAX7219 Module](https://www.devobox.com/index.php?id_product=388&controller=product&id_lang=2), 3,80 €
-* x9 Πιεζοηλεκτρικός Μετατροπέας Ήχου
+* [Dot Matrix Display MAX7219 Module](https://www.devobox.com/index.php?id_product=388&controller=product&id_lang=2), 3,80€
+* [x9 Πιεζοηλεκτρικός Μετατροπέας Ήχου](https://grobotronics.com/piezo-without-built-in-generator.html), 9 x 0.80=7,20€
 * x2 Αισθητήρας Αφής (Capacitive)
-* Καλώδια Dupont Jumper Wires 20cm
+* [Καλώδια Dupont Jumper Wires 20cm M-F 10 τεμάχια](https://www.devobox.com/index.php?id_product=129&controller=product&id_lang=2), 0,60 €
 * Μπαταριοθήκη 4x18650, με Καλώδια
 * Θερμοσυστελλόμενο 9.5mm Μαύρο, 1 μέτρο
 * Ισοπροπυλική Αλκοόλη 
