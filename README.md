@@ -29,7 +29,7 @@
 * Κουτί για Arduino MEGA
 * ESP32 ESP-32S Development Board
 * Display 1.5" RGB 128x128 OLED Module ή 2.8" TFT LCD Touchscreen w/MicroSD
-* Dot Matrix Display MAX7219 Module
+* [Dot Matrix Display MAX7219 Module](https://www.devobox.com/index.php?id_product=388&controller=product&id_lang=2), 3,80 €
 * x9 Πιεζοηλεκτρικός Μετατροπέας Ήχου
 * x2 Αισθητήρας Αφής (Capacitive)
 * Καλώδια Dupont Jumper Wires 20cm
