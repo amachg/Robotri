@@ -27,7 +27,7 @@
 #### Υλικά προς αγορά:
 * [Arduino MEGA ADK Rev3](https://grobotronics.com/arduino-mega-2560-adk-rev3.html), €53.90
 * [Κουτί για Arduino MEGA](https://www.devobox.com/index.php?id_product=39&controller=product&id_lang=2), 7,90€
-* ESP32 ESP-32S Development Board
+* [ESP32 ESP-32S Development Board](https://www.cableworks.gr/ilektronika/arduino-and-microcontrollers/microcontrollers/esp32/esp32-esp-32s-development-board-wifibluetooth-dual-core-ultralow-power-consumption-microcontoller/), €13.54
 * [Display 1.5" RGB 128x128 OLED Module](https://grobotronics.com/display-1.5-rgb-128x128-oled-module.html), €18.90
 ή 2.8" TFT LCD Touchscreen w/MicroSD
 * [Dot Matrix Display MAX7219 Module](https://www.devobox.com/index.php?id_product=388&controller=product&id_lang=2), 3,80€
