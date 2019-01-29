@@ -25,7 +25,7 @@
 σχολικό PC, πεταμένη κάμερα web, καλώδιο USB, μινι-δράπανο, πιστόλι θερμής κόλλησης, ηλεκτρικό κολλητήρι, επαναφορτιζόμενες μπαταρίες λιθίου (από πεταμένο λάπτοπ), φορτιστής μπαταριών.
 
 #### Υλικά προς αγορά:
-* Arduino MEGA ADK Rev3
+* Arduino MEGA ADK Rev3 (https://www.devobox.com/index.php?id_product=146&controller=product&id_lang=2)
 * Κουτί για Arduino MEGA
 * ESP32 ESP-32S Development Board
 * Display 1.5" RGB 128x128 OLED Module ή 2.8" TFT LCD Touchscreen w/MicroSD
