@@ -34,11 +34,11 @@
 * [x9 Πιεζοηλεκτρικός Μετατροπέας Ήχου](https://grobotronics.com/piezo-without-built-in-generator.html), 9 x 0.80=7,20€
 * x2 Αισθητήρας Αφής (Capacitive)
 * [Καλώδια Dupont Jumper Wires 20cm M-F 10 τεμάχια](https://www.devobox.com/index.php?id_product=129&controller=product&id_lang=2), 0,60 €
-* Μπαταριοθήκη 4x18650, με Καλώδια
+* [x2 Μπαταριοθήκη 4x18650, με Καλώδια](https://grobotronics.com/4x18650-wire-leads.html), 2 x €1.50=3€
 * Θερμοσυστελλόμενο 9.5mm Μαύρο, 1 μέτρο
-* Ισοπροπυλική Αλκοόλη 
+* [Ισοπροπυλική Αλκοόλη](https://www.devobox.com/index.php?id_product=353&controller=product&id_lang=2&search_query=%CE%99%CF%83%CE%BF%CF%80%CF%81%CE%BF%CF%80%CF%85%CE%BB%CE%B9%CE%BA%CE%AE+%CE%91%CE%BB%CE%BA%CE%BF%CF%8C%CE%BB%CE%B7&results=3), 7,90 €
 * Μοριοσανίδα 60x60x1 εκ.
-* Μακετόχαρτο 60x60 εκ.
+* [Μακετόχαρτο 70x100cm x10mm](http://www.prokopishop.gr/pegasus/products01/show00.php?code=31382&pcode=SHOW_PROD31382), 7,90€
 * Πολύμετρο Ψηφιακό
 * Βάση Στήριξης Πλακετών
 * Τρόμπα Αποκόλλησης
