@@ -47,7 +47,7 @@
 * [Πλαστικό Κουτί Οργάνωσης](https://grobotronics.com/storage-box-double-layer-233x161x58mm.html), €4.90
 * [Πλακέτα Δοκιμών Mini - Διαφανής](https://grobotronics.com/breadboard-mini-translucent.html), €1.60
 
-Κόστος υλικών: 186€
+Κόστος υλικών: 170€
 
 ---
 ##### Άδεια χρήσης
