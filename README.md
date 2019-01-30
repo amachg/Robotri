@@ -29,10 +29,10 @@
 * [Κουτί για Arduino MEGA](https://www.devobox.com/index.php?id_product=39&controller=product&id_lang=2), 7,90€
 * [ESP32 ESP-32S Development Board](https://www.cableworks.gr/ilektronika/arduino-and-microcontrollers/microcontrollers/esp32/esp32-esp-32s-development-board-wifibluetooth-dual-core-ultralow-power-consumption-microcontoller/), €13.54
 * [Display 1.5" RGB 128x128 OLED Module](https://grobotronics.com/display-1.5-rgb-128x128-oled-module.html), €18.90
-ή 2.8" TFT LCD Touchscreen w/MicroSD
 * [Dot Matrix Display MAX7219 Module](https://www.devobox.com/index.php?id_product=388&controller=product&id_lang=2), 3,80€
 * [x9 Πιεζοηλεκτρικός Μετατροπέας Ήχου](https://grobotronics.com/piezo-without-built-in-generator.html), 9 x 0.80=7,20€
-* x2 Αισθητήρας Αφής (Capacitive)
+* [x2 Αισθητήρας Αφής (Capacitive)](https://grobotronics.com/capacitve-touch-sensor-switch-module.html), 9 x €1.50=3€
+* [Sealed Membrane 3X4 Button Pad with Sticker](https://grobotronics.com/sealed-membrane-3x4-button-pad-with-sticker.html), €1.50
 * [Καλώδια Dupont Jumper Wires 20cm M-F](https://www.devobox.com/index.php?id_product=129&controller=product&id_lang=2), 0,60€
 * [x2 Μπαταριοθήκη 4x18650, με Καλώδια](https://grobotronics.com/4x18650-wire-leads.html), 2 x €1.50=3€
 * Θερμοσυστελλόμενο 9.5mm Μαύρο, 1 μέτρο
@@ -48,6 +48,7 @@
 * [Κόφτης Μικρός](https://grobotronics.com/pk-21.html), €14.90
 * Τρυπανάκια 0.4 mm - 1 mm 
 * [Πλαστικό Κουτί Οργάνωσης](https://grobotronics.com/storage-box-double-layer-233x161x58mm.html), €4.90
+* [Πλακέτα Δοκιμών Mini - Διαφανής](https://grobotronics.com/breadboard-mini-translucent.html), €1.60
 
 Κόστος υλικών: 186€
 
