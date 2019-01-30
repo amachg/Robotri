@@ -22,7 +22,7 @@
 ---
 #### Υπάρχοντα υλικά & εργαλεία:
 Ρομποτικός βραχίονας [Arduino Braccio](https://store.arduino.cc/braccio-bundle) (είχε αγοραστεί πέρσι 155€),
-σχολικό PC, πεταμένη κάμερα web, καλώδιο USB, μινι-δράπανο, πιστόλι θερμής κόλλησης, ηλεκτρικό κολλητήρι, επαναφορτιζόμενες μπαταρίες λιθίου (από πεταμένο λάπτοπ), φορτιστής μπαταριών.
+σχολικό PC, πεταμένη κάμερα web, καλώδιο USB, μινι-δράπανο, πιστόλι θερμής κόλλησης, ηλεκτρικό κολλητήρι, επαναφορτιζόμενες μπαταρίες λιθίου (από πεταμένο λάπτοπ), φορτιστής μπαταριών, Μοριοσανίδα 60x60x1 εκ.
 
 #### Υλικά προς αγορά:
 * [Arduino MEGA ADK Rev3](https://grobotronics.com/arduino-mega-2560-adk-rev3.html), €53.90
@@ -37,7 +37,6 @@
 * [x2 Μπαταριοθήκη 4x18650, με Καλώδια](https://grobotronics.com/4x18650-wire-leads.html), 2 x €1.50=3€
 * Θερμοσυστελλόμενο 9.5mm Μαύρο, 1 μέτρο
 * [Ισοπροπυλική Αλκοόλη](https://www.devobox.com/index.php?id_product=621&controller=product&id_lang=2), 2,50 €
-* Μοριοσανίδα 60x60x1 εκ.
 * [Μακετόχαρτο 70x100cm x10mm](http://www.prokopishop.gr/pegasus/products01/show00.php?code=31382&pcode=SHOW_PROD31382), 7,90€
 * [Πολύμετρο Ψηφιακό](https://grobotronics.com/digital-multimeter-uni-t-ut131b.html), €10.80
 * [Βάση Στήριξης Πλακετών](https://www.devobox.com/index.php?id_product=375&controller=product&id_lang=2), 3,50€
@@ -46,7 +45,6 @@
 * Heat-resistant Silicone Soldering Pad
 * [Σετ Κατσαβίδια Ακριβείας](https://www.devobox.com/index.php?id_product=211&controller=product&id_lang=2), 12,00€
 * [Κόφτης Μικρός](https://grobotronics.com/pk-21.html), €14.90
-* Τρυπανάκια 0.4 mm - 1 mm 
 * [Πλαστικό Κουτί Οργάνωσης](https://grobotronics.com/storage-box-double-layer-233x161x58mm.html), €4.90
 * [Πλακέτα Δοκιμών Mini - Διαφανής](https://grobotronics.com/breadboard-mini-translucent.html), €1.60
 
