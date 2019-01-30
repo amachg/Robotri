@@ -33,21 +33,21 @@
 * [Dot Matrix Display MAX7219 Module](https://www.devobox.com/index.php?id_product=388&controller=product&id_lang=2), 3,80€
 * [x9 Πιεζοηλεκτρικός Μετατροπέας Ήχου](https://grobotronics.com/piezo-without-built-in-generator.html), 9 x 0.80=7,20€
 * x2 Αισθητήρας Αφής (Capacitive)
-* [Καλώδια Dupont Jumper Wires 20cm M-F 10 τεμάχια](https://www.devobox.com/index.php?id_product=129&controller=product&id_lang=2), 0,60 €
+* [Καλώδια Dupont Jumper Wires 20cm M-F](https://www.devobox.com/index.php?id_product=129&controller=product&id_lang=2), 0,60€
 * [x2 Μπαταριοθήκη 4x18650, με Καλώδια](https://grobotronics.com/4x18650-wire-leads.html), 2 x €1.50=3€
 * Θερμοσυστελλόμενο 9.5mm Μαύρο, 1 μέτρο
-* [Ισοπροπυλική Αλκοόλη](https://www.devobox.com/index.php?id_product=353&controller=product&id_lang=2&search_query=%CE%99%CF%83%CE%BF%CF%80%CF%81%CE%BF%CF%80%CF%85%CE%BB%CE%B9%CE%BA%CE%AE+%CE%91%CE%BB%CE%BA%CE%BF%CF%8C%CE%BB%CE%B7&results=3), 7,90 €
+* [Ισοπροπυλική Αλκοόλη](https://www.devobox.com/index.php?id_product=621&controller=product&id_lang=2), 2,50 €
 * Μοριοσανίδα 60x60x1 εκ.
 * [Μακετόχαρτο 70x100cm x10mm](http://www.prokopishop.gr/pegasus/products01/show00.php?code=31382&pcode=SHOW_PROD31382), 7,90€
 * [Πολύμετρο Ψηφιακό](https://grobotronics.com/digital-multimeter-uni-t-ut131b.html), €10.80
-* Βάση Στήριξης Πλακετών
-* Τρόμπα Αποκόλλησης
-* Flux Liquid 25ml Rosin-Free
+* [Βάση Στήριξης Πλακετών](https://www.devobox.com/index.php?id_product=375&controller=product&id_lang=2), 3,50€
+* [Τρόμπα Αποκόλλησης](https://www.devobox.com/index.php?id_product=440&controller=product&id_lang=2), 3,50€
+* [Flux Liquid 25ml Rosin-Free](https://grobotronics.com/flux-liquid-25ml-rosin-free.html), €2.99
 * Heat-resistant Silicone Soldering Pad
-* Σετ Κατσαβίδια Ακριβείας
-* Toolcraft 816745 Κοφτάκι 125mm πλάγιο
+* [Σετ Κατσαβίδια Ακριβείας](https://www.devobox.com/index.php?id_product=211&controller=product&id_lang=2), 12,00€
+* [Κόφτης Μικρός](https://grobotronics.com/pk-21.html), €14.90
 * Τρυπανάκια 0.4 mm - 1 mm 
-* Πλαστικό Κουτί Οργάνωσης
+* [Πλαστικό Κουτί Οργάνωσης](https://grobotronics.com/storage-box-double-layer-233x161x58mm.html), €4.90
 
 Κόστος υλικών: 186€
 
