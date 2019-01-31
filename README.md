@@ -38,7 +38,6 @@
 * [Devobox Kit Αντιστάσεων (Basic)](https://www.devobox.com/index.php?id_product=53&controller=product&id_lang=2), 2,50€
 * [Πλακέτα Δοκιμών Mini - Διαφανής](https://grobotronics.com/breadboard-mini-translucent.html), €1.60
 * [Ισοπροπυλική Αλκοόλη](https://www.devobox.com/index.php?id_product=621&controller=product&id_lang=2), 2,50€
-* [Μακετόχαρτο 70x100cm x10mm](http://www.prokopishop.gr/pegasus/products01/show00.php?code=31382&pcode=SHOW_PROD31382), 7,90€
 * [Πολύμετρο Ψηφιακό](https://grobotronics.com/digital-multimeter-uni-t-ut131b.html), €10.80
 * [Βάση Στήριξης Πλακετών](https://www.devobox.com/index.php?id_product=375&controller=product&id_lang=2), 3,50€
 * [Τρόμπα Αποκόλλησης](https://www.devobox.com/index.php?id_product=440&controller=product&id_lang=2), 3,50€
