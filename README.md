@@ -28,7 +28,6 @@
 * [Arduino MEGA ADK Rev3](https://grobotronics.com/arduino-mega-2560-adk-rev3.html), €53.90
 * [Κουτί για Arduino MEGA](https://www.devobox.com/index.php?id_product=39&controller=product&id_lang=2), 7,90€
 * [HM-10 Serial Bluetooth 4.0 module](https://www.devobox.com/index.php?id_product=217&controller=product&id_lang=2), 10,00 €
-* ή [Adafruit Bluefruit LE Shield](https://grobotronics.com/adafruit-bluefruit-le-shield-bluetooth-le-for-arduino.html), €24.50
 * [Display 1.5" RGB 128x128 OLED Module](https://grobotronics.com/display-1.5-rgb-128x128-oled-module.html), €18.90
 * [Dot Matrix Display MAX7219 Module](https://www.devobox.com/index.php?id_product=388&controller=product&id_lang=2), 3,80€
 * [x9 Πιεζοηλεκτρικός Μετατροπέας Ήχου](https://grobotronics.com/piezo-without-built-in-generator.html), 9 x 0.80=7,20€
