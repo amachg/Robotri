@@ -22,12 +22,13 @@
 ---
 #### Υπάρχοντα υλικά & εργαλεία:
 Ρομποτικός βραχίονας [Arduino Braccio](https://store.arduino.cc/braccio-bundle) (είχε αγοραστεί πέρσι 155€),
-σχολικό PC, πεταμένη κάμερα web, καλώδιο USB, μινι-δράπανο, πιστόλι θερμής κόλλησης, ηλεκτρικό κολλητήρι, επαναφορτιζόμενες μπαταρίες λιθίου (από πεταμένο λάπτοπ), φορτιστής μπαταριών, Μοριοσανίδα 60x60x1 εκ.
+σχολικό PC, πεταμένη κάμερα web, καλώδιο USB, μινι-δράπανο, πιστόλι θερμής κόλλησης, ηλεκτρικό κολλητήρι, επαναφορτιζόμενες μπαταρίες λιθίου (από πεταμένο λάπτοπ), φορτιστής μπαταριών.
 
 #### Υλικά προς αγορά:
 * [Arduino MEGA ADK Rev3](https://grobotronics.com/arduino-mega-2560-adk-rev3.html), €53.90
 * [Κουτί για Arduino MEGA](https://www.devobox.com/index.php?id_product=39&controller=product&id_lang=2), 7,90€
-* [ESP32 ESP-32S Development Board](https://www.cableworks.gr/ilektronika/arduino-and-microcontrollers/microcontrollers/esp32/esp32-esp-32s-development-board-wifibluetooth-dual-core-ultralow-power-consumption-microcontoller/), €13.54
+* [HM-10 Serial Bluetooth 4.0 module](https://www.devobox.com/index.php?id_product=217&controller=product&id_lang=2), 10,00 €
+* ή [Adafruit Bluefruit LE Shield](https://grobotronics.com/adafruit-bluefruit-le-shield-bluetooth-le-for-arduino.html), €24.50
 * [Display 1.5" RGB 128x128 OLED Module](https://grobotronics.com/display-1.5-rgb-128x128-oled-module.html), €18.90
 * [Dot Matrix Display MAX7219 Module](https://www.devobox.com/index.php?id_product=388&controller=product&id_lang=2), 3,80€
 * [x9 Πιεζοηλεκτρικός Μετατροπέας Ήχου](https://grobotronics.com/piezo-without-built-in-generator.html), 9 x 0.80=7,20€
@@ -35,8 +36,9 @@
 * [Sealed Membrane 3X4 Button Pad with Sticker](https://grobotronics.com/sealed-membrane-3x4-button-pad-with-sticker.html), €1.50
 * [Καλώδια Dupont Jumper Wires 20cm M-F](https://www.devobox.com/index.php?id_product=129&controller=product&id_lang=2), 0,60€
 * [x2 Μπαταριοθήκη 4x18650, με Καλώδια](https://grobotronics.com/4x18650-wire-leads.html), 2 x €1.50=3€
-* [Devobox Kit Αντιστάσεων (Basic)](https://www.devobox.com/index.php?id_product=53&controller=product&id_lang=2), 2,50 €
-* [Ισοπροπυλική Αλκοόλη](https://www.devobox.com/index.php?id_product=621&controller=product&id_lang=2), 2,50 €
+* [Devobox Kit Αντιστάσεων (Basic)](https://www.devobox.com/index.php?id_product=53&controller=product&id_lang=2), 2,50€
+* [Πλακέτα Δοκιμών Mini - Διαφανής](https://grobotronics.com/breadboard-mini-translucent.html), €1.60
+* [Ισοπροπυλική Αλκοόλη](https://www.devobox.com/index.php?id_product=621&controller=product&id_lang=2), 2,50€
 * [Μακετόχαρτο 70x100cm x10mm](http://www.prokopishop.gr/pegasus/products01/show00.php?code=31382&pcode=SHOW_PROD31382), 7,90€
 * [Πολύμετρο Ψηφιακό](https://grobotronics.com/digital-multimeter-uni-t-ut131b.html), €10.80
 * [Βάση Στήριξης Πλακετών](https://www.devobox.com/index.php?id_product=375&controller=product&id_lang=2), 3,50€
@@ -45,7 +47,8 @@
 * [Σετ Κατσαβίδια Ακριβείας](https://www.devobox.com/index.php?id_product=211&controller=product&id_lang=2), 12,00€
 * [Κόφτης Μικρός](https://grobotronics.com/pk-21.html), €14.90
 * [Πλαστικό Κουτί Οργάνωσης](https://grobotronics.com/storage-box-double-layer-233x161x58mm.html), €4.90
-* [Πλακέτα Δοκιμών Mini - Διαφανής](https://grobotronics.com/breadboard-mini-translucent.html), €1.60
+* [Χαρτόνι Μακέτας 50Χ70εκ./10mm](https://www.plaisio.gr/zografiki-diy/maketa/xartonia/Neofoam-Paper-Board-50x70cm-10mm-10MM-50X70.htm), 4,99€
+* [Μοριοσανίδα-MDF Hardboard 35x50cm](https://www.plaisio.gr/zografiki-diy/sxedio/ylika-sxediasis/White-Box-Hardboard-35-X-50-from-Mdf.htm), 1,89€
 
 Κόστος υλικών: 170€
 
