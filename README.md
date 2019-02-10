@@ -62,8 +62,9 @@ amach@sch.gr
 
 Robotics Club του σχολείου:
 * Πετρουλάκης :smirk:
-* Παπαδόπουλος :smiley:
 * Φελέσκουρας :disappointed_relieved:
-* Ψαρράς :flushed:
 * Νικολακόπουλος :relaxed:
+* Παπαδόπουλος :smiley:
+* Ψαρράς :flushed:
+* Χριστοπούλου :girl:
 * Μαχαιρίδης :neutral_face:
