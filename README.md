@@ -67,4 +67,4 @@ Robotics Club του σχολείου:
 * Παπαδόπουλος :smiley:
 * Ψαρράς :flushed:
 * Χριστοπούλου :girl:
-* Περγαντής :neutral_face:
+* Περγαντής :relieved:
