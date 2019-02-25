@@ -36,13 +36,13 @@
 * [Ribbon 40wire 20cm - Female to Μale](https://grobotronics.com/ribbon-40wire-20cm-female-to-ale.html), 3.60€
 * [x2 Μπαταριοθήκη 3x18650 - με Καλώδια](https://grobotronics.com/3x18650-wire-leads.html), 2 x €1.50=3€
 * [x2 Μπαταριοθήκη 4x18650, με Καλώδια](https://grobotronics.com/4x18650-wire-leads.html), 2 x €1.50=3€
-* [Resistor Kit - 1/4W (500 total)] (https://grobotronics.com/resistor-kit-1-4w-500-total.html), €9.50
+* [Resistor Kit - 1/4W](https://grobotronics.com/resistor-kit-1-4w-500-total.html), €9.50
 * [Πλακέτα Δοκιμών Mini - Διαφανής](https://grobotronics.com/breadboard-mini-translucent.html), €1.60
-* [Ισοπροπυλική Αλκοόλη 100ml (AG Termopasty)](https://grobotronics.com/100ml-ag-termopasty.html), 2,50€
+* [Ισοπροπυλική Αλκοόλη 100ml](https://grobotronics.com/100ml-ag-termopasty.html), 2,50€
 * [Πολύμετρο Ψηφιακό UNI-T UT132D](https://grobotronics.com/digital-multimeter-ut132d-uni-t.html), €21.90
 * [Μπαταρία Varta Alkaline Longlife 9V](https://grobotronics.com/battery-9v-varta-longlife.html), €21.90
 * [Βάση Στήριξης Πλακετών Universal](https://grobotronics.com/universal-pcb-holder.html), 1.90€
-* [Tweezer 165mm - Self-Gripping Proskit 1PK-108T](https://grobotronics.com/tweezer-165mm-self-gripping-proskit-1pk-108t.html), 3,50€
+* [Tweezer 165mm - Self-Gripping](https://grobotronics.com/tweezer-165mm-self-gripping-proskit-1pk-108t.html), 3,50€
 * [Flux Liquid 25ml Rosin-Free](https://grobotronics.com/flux-liquid-25ml-rosin-free.html), €2.99
 * [Κόφτης Μικρός](https://grobotronics.com/pk-21.html), €14.90
 * [Κουτί Αποθήκευσης Δύο Στρωμάτων 233x161x58mm](https://grobotronics.com/storage-box-double-layer-233x161x58mm.html), €4.90
