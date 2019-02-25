@@ -35,7 +35,7 @@
 * [Sealed Membrane 3X4 Button Pad with Sticker](https://grobotronics.com/sealed-membrane-3x4-button-pad-with-sticker.html), €1.50
 * [Ribbon 40wire 20cm - Female to Μale](https://grobotronics.com/ribbon-40wire-20cm-female-to-ale.html), 3.60€
 * [x2 Μπαταριοθήκη 3x18650 - με Καλώδια](https://grobotronics.com/3x18650-wire-leads.html), 2 x €1.50=3€
-* [x2 Μπαταριοθήκη 4x18650, με Καλώδια](https://grobotronics.com/4x18650-wire-leads.html), 2 x €1.50=3€
+* [Μπαταριοθήκη 4x18650, με Καλώδια](https://grobotronics.com/4x18650-wire-leads.html), €1.50
 * [Resistor Kit - 1/4W](https://grobotronics.com/resistor-kit-1-4w-500-total.html), €9.50
 * [Πλακέτα Δοκιμών Mini - Διαφανής](https://grobotronics.com/breadboard-mini-translucent.html), €1.60
 * [Ισοπροπυλική Αλκοόλη 100ml](https://grobotronics.com/100ml-ag-termopasty.html), 2,50€
@@ -49,7 +49,7 @@
 * [Χαρτόνι Μακέτας 50Χ70εκ./10mm](https://www.plaisio.gr/zografiki-diy/maketa/xartonia/Neofoam-Paper-Board-50x70cm-10mm-10MM-50X70.htm), 4,99€
 * [Μοριοσανίδα-MDF Hardboard 35x50cm](https://www.plaisio.gr/zografiki-diy/sxedio/ylika-sxediasis/White-Box-Hardboard-35-X-50-from-Mdf.htm), 1,89€
 
-Κόστος υλικών: 185€
+Κόστος υλικών: 184€
 
 ---
 ##### Άδεια χρήσης
