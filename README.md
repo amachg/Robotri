@@ -40,7 +40,6 @@
 * [Πλακέτα Δοκιμών Mini - Διαφανής](https://grobotronics.com/breadboard-mini-translucent.html), €1.60
 * [Ισοπροπυλική Αλκοόλη 100ml](https://grobotronics.com/100ml-ag-termopasty.html), 2,50€
 * [Πολύμετρο Ψηφιακό UNI-T UT132D](https://grobotronics.com/digital-multimeter-ut132d-uni-t.html), €21.90
-* [Μπαταρία Varta Alkaline Longlife 9V](https://grobotronics.com/battery-9v-varta-longlife.html), €1.90
 * [Βάση Στήριξης Πλακετών Universal](https://grobotronics.com/universal-pcb-holder.html), 5.90€
 * [Tweezer 165mm - Self-Gripping](https://grobotronics.com/tweezer-165mm-self-gripping-proskit-1pk-108t.html), 3,50€
 * [Flux Liquid 25ml Rosin-Free](https://grobotronics.com/flux-liquid-25ml-rosin-free.html), €2.99
@@ -49,7 +48,7 @@
 * [Χαρτόνι Μακέτας 50Χ70εκ./10mm](https://www.plaisio.gr/zografiki-diy/maketa/xartonia/Neofoam-Paper-Board-50x70cm-10mm-10MM-50X70.htm), 4,99€
 * [Μοριοσανίδα-MDF Hardboard 35x50cm](https://www.plaisio.gr/zografiki-diy/sxedio/ylika-sxediasis/White-Box-Hardboard-35-X-50-from-Mdf.htm), 1,89€
 
-Κόστος υλικών: 184€
+Κόστος υλικών: 180€
 
 ---
 ##### Άδεια χρήσης
