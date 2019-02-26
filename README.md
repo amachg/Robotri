@@ -27,21 +27,21 @@
 #### Υλικά προς αγορά:
 * [Arduino MEGA ADK Rev3](https://grobotronics.com/arduino-mega-2560-adk-rev3.html), €53.90
 * [Arduino Box](https://grobotronics.com/arduino-box.html), 7,90€
-* [Bluetooth Module for Arduino - HM10](https://grobotronics.com/bluetooth-module-for-arduino-hm-10.html), 10,00 €
+* [Bluetooth Module for Arduino - HM10](https://grobotronics.com/bluetooth-module-for-arduino-hm-10.html), €12.90
 * [Display 1.5" RGB 128x128 OLED Module](https://grobotronics.com/display-1.5-rgb-128x128-oled-module.html), €18.90
 * [Led Matrix 8x8 Red with MAX7219](https://grobotronics.com/led-matrix-8x8-red-with-max7219.html), 3,90€
-* [x9 Πιεζοηλεκτρικός Μετατροπέας Ήχου](https://grobotronics.com/piezo-without-built-in-generator.html), 9 x 0.80=7,20€
-* [x2 Αισθητήρας Αφής (Capacitive)](https://grobotronics.com/capacitve-touch-sensor-switch-module.html), 9 x €1.50=3€
+* [x9 Πιεζοηλεκτρικός Μετατροπέας Ήχου](https://grobotronics.com/piezo-without-built-in-generator.html), 9 x 0.80 = 7,20€
+* [x2 Αισθητήρας Αφής (Capacitive)](https://grobotronics.com/capacitve-touch-sensor-switch-module.html), 2 x €1.50 = 3€
 * [Sealed Membrane 3X4 Button Pad with Sticker](https://grobotronics.com/sealed-membrane-3x4-button-pad-with-sticker.html), €1.50
 * [Ribbon 40wire 20cm - Female to Μale](https://grobotronics.com/ribbon-40wire-20cm-female-to-ale.html), 3.60€
-* [x2 Μπαταριοθήκη 3x18650 - με Καλώδια](https://grobotronics.com/3x18650-wire-leads.html), 2 x €1.50=3€
+* [x2 Μπαταριοθήκη 3x18650 - με Καλώδια](https://grobotronics.com/3x18650-wire-leads.html), 2 x €1.50 = 3€
 * [Μπαταριοθήκη 4x18650, με Καλώδια](https://grobotronics.com/4x18650-wire-leads.html), €1.50
 * [Resistor Kit - 1/4W](https://grobotronics.com/resistor-kit-1-4w-500-total.html), €9.50
 * [Πλακέτα Δοκιμών Mini - Διαφανής](https://grobotronics.com/breadboard-mini-translucent.html), €1.60
 * [Ισοπροπυλική Αλκοόλη 100ml](https://grobotronics.com/100ml-ag-termopasty.html), 2,50€
 * [Πολύμετρο Ψηφιακό UNI-T UT132D](https://grobotronics.com/digital-multimeter-ut132d-uni-t.html), €21.90
-* [Μπαταρία Varta Alkaline Longlife 9V](https://grobotronics.com/battery-9v-varta-longlife.html), €21.90
-* [Βάση Στήριξης Πλακετών Universal](https://grobotronics.com/universal-pcb-holder.html), 1.90€
+* [Μπαταρία Varta Alkaline Longlife 9V](https://grobotronics.com/battery-9v-varta-longlife.html), €1.90
+* [Βάση Στήριξης Πλακετών Universal](https://grobotronics.com/universal-pcb-holder.html), 5.90€
 * [Tweezer 165mm - Self-Gripping](https://grobotronics.com/tweezer-165mm-self-gripping-proskit-1pk-108t.html), 3,50€
 * [Flux Liquid 25ml Rosin-Free](https://grobotronics.com/flux-liquid-25ml-rosin-free.html), €2.99
 * [Κόφτης Μικρός](https://grobotronics.com/pk-21.html), €14.90
