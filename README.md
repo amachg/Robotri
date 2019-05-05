@@ -14,28 +14,27 @@
 5. Η ανάπτυξη *προγράμματος* (sketch), σε γλώσσα arduino processing (C++), ώστε ο μικροελεγκτής να μπορεί να κατευθύνει τον βραχίονα στις σωστές θέσεις της πίστας.
 ---
 #### Επεκτάσεις:
-1. Η προσθήκη τεχνητής ευφυΐας (AI), ώστε να μπορεί να εκτιμά την τρέχουσα κατάσταση του παιχνιδιού και να διαλέγει την προσφορότερη κίνηση του ρομπότ και τελικά να μην χάνει ποτέ από έναν άνθρωπο.
-2. Αυτονόμηση της κατασκευής από το καλώδιο USB με ασύρματη (bluetooth) σύνδεση με τον υπολογιστή,
-3. Αυτονόμηση της κατασκευής από τη τροφοδοσία ρεύματος, με χρήση επαναφορτιζόμενων μπαταριών,
-4. Ανεξαρτητοποίηση από το PC και το πληκτρολόγιο, για την είσοδο της κατάστασης του παιχνιδιού, πιεζοηλεκτρικούς επαφής (piezo element, tap, knock) ή με αισθητήρες μαγνητικού πεδίου (hall effect ή reed) και οθόνη στην οποία θα εμφανίζονται μηνύματα του παιχνιδιού,
-5. Αναγνώριση εικόνας (προτύπων) πίστας-αντικειμένων του παιχνιδιού, μέσω κάμερας με το λογισμικό OpenCV.
+1. Ανεξαρτητοποίηση από το PC, για την επικοινωνία με τον χρήστη, με πληκτρολόγιο μεμβράνης ή πιεζοηλεκτρικούς αισθητήρες επαφής (piezo knock sensors) και οθόνη LED στην οποία θα εμφανίζονται τα μηνύματα του παιχνιδιού,
+2.  Αυτονόμηση της κατασκευής από τη τροφοδοσία ρεύματος, με χρήση επαναφορτιζόμενων μπαταριών από λάπτοπ,
+3. Η προσθήκη τεχνητής ευφυΐας (AI), ώστε να μπορεί να εκτιμά την τρέχουσα κατάσταση του παιχνιδιού και να διαλέγει την προσφορότερη κίνηση του ρομπότ και τελικά να μην χάνει ποτέ από έναν άνθρωπο.
+4. Αυτονόμηση της κατασκευής από το καλώδιο USB με ασύρματη (bluetooth) σύνδεση με τον υπολογιστή,
+5. Αναγνώριση της εικόνας της πίστας και των αντικειμένων του παιχνιδιού, μέσω κάμερας, με το λογισμικό OpenCV.
 ---
 #### Υπάρχοντα υλικά & εργαλεία:
 Ρομποτικός βραχίονας [Arduino Braccio](https://store.arduino.cc/braccio-bundle) (είχε αγοραστεί πέρσι 155€),
-σχολικό PC, πεταμένη κάμερα web, καλώδιο USB, μινι-δράπανο, πιστόλι θερμής κόλλησης, ηλεκτρικό κολλητήρι, επαναφορτιζόμενες μπαταρίες λιθίου (από πεταμένο λάπτοπ), φορτιστής μπαταριών.
+σχολικό PC, ανακυκλωμένη κάμερα web, καλώδιο USB, μινι-δράπανο, πιστόλι θερμής κόλλησης, ηλεκτρικό κολλητήρι, ανακυκλωμένη επαναφορτιζόμενες μπαταρίες λιθίου (από πεταμένο λάπτοπ), φορτιστής μπαταριών.
 
 #### Υλικά προς αγορά:
 * [Arduino MEGA ADK Rev3](https://grobotronics.com/arduino-mega-2560-adk-rev3.html), €53.90
 * [Arduino Box](https://grobotronics.com/arduino-box.html), 7,90€
+* [Led Matrix 8x8 Red with MAX7219](https://grobotronics.com/led-matrix-8x8-red-with-max7219.html), 3,90€
 * [Bluetooth Module for Arduino - HM10](https://grobotronics.com/bluetooth-module-for-arduino-hm-10.html), €12.90
 * [Display 1.5" RGB 128x128 OLED Module](https://grobotronics.com/display-1.5-rgb-128x128-oled-module.html), €18.90
-* [Led Matrix 8x8 Red with MAX7219](https://grobotronics.com/led-matrix-8x8-red-with-max7219.html), 3,90€
 * [x9 Πιεζοηλεκτρικός Μετατροπέας Ήχου](https://grobotronics.com/piezo-without-built-in-generator.html), 9 x 0.80 = 7,20€
 * [x2 Αισθητήρας Αφής (Capacitive)](https://grobotronics.com/capacitve-touch-sensor-switch-module.html), 2 x €1.50 = 3€
 * [Sealed Membrane 3X4 Button Pad with Sticker](https://grobotronics.com/sealed-membrane-3x4-button-pad-with-sticker.html), €1.50
 * [Ribbon 40wire 20cm - Female to Μale](https://grobotronics.com/ribbon-40wire-20cm-female-to-ale.html), 3.60€
-* [x2 Μπαταριοθήκη 3x18650 - με Καλώδια](https://grobotronics.com/3x18650-wire-leads.html), 2 x €1.50 = 3€
-* [Μπαταριοθήκη 4x18650, με Καλώδια](https://grobotronics.com/4x18650-wire-leads.html), €1.50
+* [x3 Μπαταριοθήκη 3x18650 - με Καλώδια](https://grobotronics.com/3x18650-wire-leads.html), 3 x €1.50 = 4,5€
 * [Resistor Kit - 1/4W](https://grobotronics.com/resistor-kit-1-4w-500-total.html), €9.50
 * [Πλακέτα Δοκιμών Mini - Διαφανής](https://grobotronics.com/breadboard-mini-translucent.html), €1.60
 * [Ισοπροπυλική Αλκοόλη 100ml](https://grobotronics.com/100ml-ag-termopasty.html), 2,50€
@@ -57,6 +56,7 @@
 
 ##### Επαφή
 7ο Γυμνάσιο Χαϊδαρίου "Νέα Φώκαια": http://7gym-chaid.att.sch.gr
+Instagram @robot7gymchai
 
 amach@sch.gr
 
