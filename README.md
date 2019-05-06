@@ -57,7 +57,7 @@
 ##### Επαφή
 7ο Γυμνάσιο Χαϊδαρίου "Νέα Φώκαια": http://7gym-chaid.att.sch.gr
 
-[Instagram @robot7gymchai](https://www.instagram.com/robot7gymchai/)
+Instagram [@robot7gymchai](https://www.instagram.com/robot7gymchai/)
 
 amach@sch.gr
 
