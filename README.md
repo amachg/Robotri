@@ -50,6 +50,11 @@
 Κόστος υλικών: 180€
 
 ---
+
+[Τρόπος κατασκευής με φωτογραφίες και βίντεο λειτουργίας] (https://robotics.ellak.gr/robotics_participant/rompotiki-triliza-omada-robotri-7-gimnasio-chaidariou/)
+
+---
+
 ##### Άδεια χρήσης
 
 Παρακάλω δείτε το αρχείο [LICENSE](https://github.com/amachg/Robotri/blob/master/LICENSE)
