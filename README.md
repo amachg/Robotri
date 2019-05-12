@@ -49,9 +49,7 @@
 
 Κόστος υλικών: 180€
 
----
-
-[Τρόπος κατασκευής με φωτογραφίες και βίντεο λειτουργίας] (https://robotics.ellak.gr/robotics_participant/rompotiki-triliza-omada-robotri-7-gimnasio-chaidariou/)
+[Τρόπος κατασκευής με φωτογραφίες και βίντεο λειτουργίας](https://robotics.ellak.gr/robotics_participant/rompotiki-triliza-omada-robotri-7-gimnasio-chaidariou/)
 
 ---
 
@@ -60,13 +58,11 @@
 Παρακάλω δείτε το αρχείο [LICENSE](https://github.com/amachg/Robotri/blob/master/LICENSE)
 
 ##### Επαφή
+Instagram [@robot7gymchai](https://www.instagram.com/robot7gymchai/)
+amach@sch.gr
 7ο Γυμνάσιο Χαϊδαρίου "Νέα Φώκαια": http://7gym-chaid.att.sch.gr
 
-Instagram [@robot7gymchai](https://www.instagram.com/robot7gymchai/)
-
-amach@sch.gr
-
-Robotics Club του σχολείου:
+#### Robotics Club του σχολείου:
 * Πετρουλάκης :smirk:
 * Φελέσκουρας :disappointed_relieved:
 * Παπαδόπουλος :smiley:
