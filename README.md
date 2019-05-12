@@ -56,17 +56,19 @@
 ##### Άδεια χρήσης
 
 Παρακάλω δείτε το αρχείο [LICENSE](https://github.com/amachg/Robotri/blob/master/LICENSE)
+
 ---
 
 ##### Επαφή
 
 Instagram [@robot7gymchai](https://www.instagram.com/robot7gymchai/)
 
-amach@sch.gr
+email: amach@sch.gr
 
 7ο Γυμνάσιο Χαϊδαρίου "Νέα Φώκαια": http://7gym-chaid.att.sch.gr
 
-#### Robotics Club του σχολείου:
+##### Robotics Club του σχολείου:
+
 * Πετρουλάκης :smirk:
 * Φελέσκουρας :disappointed_relieved:
 * Παπαδόπουλος :smiley:
