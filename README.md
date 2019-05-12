@@ -54,10 +54,12 @@
 ---
 
 ##### Άδεια χρήσης
+
 Παρακάλω δείτε το αρχείο [LICENSE](https://github.com/amachg/Robotri/blob/master/LICENSE)
 ---
 
 ##### Επαφή
+
 Instagram [@robot7gymchai](https://www.instagram.com/robot7gymchai/)
 
 amach@sch.gr
