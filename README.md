@@ -61,11 +61,11 @@
 
 ##### Επαφή
 
-Instagram [@robot7gymchai](https://www.instagram.com/robot7gymchai/)
+Instagram: [@robot7gymchai](https://www.instagram.com/robot7gymchai/)
 
 email: amach@sch.gr
 
-7ο Γυμνάσιο Χαϊδαρίου "Νέα Φώκαια": http://7gym-chaid.att.sch.gr
+Ιστοχώρος 7ου Γυμνάσιο Χαϊδαρίου: http://7gym-chaid.att.sch.gr
 
 ##### Robotics Club του σχολείου:
 
@@ -73,7 +73,7 @@ email: amach@sch.gr
 * Φελέσκουρας :disappointed_relieved:
 * Παπαδόπουλος :smiley:
 * Νικολακόπουλος :relaxed:
-* Ανατόλας
+* Ανατόλας :smiley:
 * Χριστοπούλου :girl:
 * Περγαντής :relieved:
 * Ψαρράς :flushed:
