@@ -1,4 +1,4 @@
-# Robotri
+# Robotri - 7ο Γυμνάσιο Χαϊδαρίου
 ![Arduino](https://res-1.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_120,w_120,f_auto,b_white,q_auto:eco/v1397183645/50bf4fee6f1194cbd5064a4342c4ab75.png "Logo1") 
 ![Arduino](http://www.i2clipart.com/cliparts/1/4/8/7/clipart-open-source-harware-logo-1487.png "Logo2")
 ![Arduino](https://github.com/amachg/Robotri/blob/master/τρίλιζα.png "Logo4")
