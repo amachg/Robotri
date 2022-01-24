@@ -1,5 +1,6 @@
 // Αρχείο 8x8LED.h για οδήγηση οθόνης 8x8 LED Matrix συμβατής με MAX7219
 // εταιρία: elecrow, μοντέλο :DLM72192R
+// εταιρία: elecrow, μοντέλο :DLM72192R
 
 #include <LedControl.h>
 
